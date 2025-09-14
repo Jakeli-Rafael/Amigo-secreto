@@ -27,14 +27,15 @@ Este es un sencillo proyecto web de "Amigo Secreto", desarrollado para practicar
 Aquí tienes una captura de pantalla que muestra la interfaz y una demostración del sorteo.
 
 ### Interfaz Principal
-![Captura de pantalla de la interfaz de la aplicación](assets/captura_interfaz.png)
+<img width="1021" height="629" alt="image" src="https://github.com/user-attachments/assets/1689518e-2f18-456b-869f-48caaea3f7b0" />
+
 
 ### Resultado del Sorteo
-![Captura de pantalla del resultado del sorteo](assets/captura_resultado.png)
+<img width="1007" height="638" alt="image" src="https://github.com/user-attachments/assets/de79edfe-96f0-4c8f-9f80-f1cc99b37152" />
+
+<img width="1015" height="634" alt="image" src="https://github.com/user-attachments/assets/c60b02c8-ca3f-4716-a75b-57ae760e8d44" />
 
 
-Este proyecto es parte de un challenge de Alura Latam. Siéntete libre de clonar y mejorar el código. ¡Todas las contribuciones son bienvenidas!
+Este proyecto es parte de un challenge de Alura Latam.
 
 ---
-
-**Autor:** [TU NOMBRE]
