@@ -32,13 +32,6 @@ Aquí tienes una captura de pantalla que muestra la interfaz y una demostración
 ### Resultado del Sorteo
 ![Captura de pantalla del resultado del sorteo](assets/captura_resultado.png)
 
-## 🎥 Video del Proyecto (Opcional)
-
-Puedes ver un video corto que muestra cómo funciona la aplicación.
-
-[![Haz clic para ver el video](https://img.youtube.com/vi/[ID_DE_TU_VIDEO]/0.jpg)]([LINK AL VIDEO])
-
-## 🤝 Contribuciones
 
 Este proyecto es parte de un challenge de Alura Latam. Siéntete libre de clonar y mejorar el código. ¡Todas las contribuciones son bienvenidas!
 
