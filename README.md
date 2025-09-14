@@ -2,8 +2,6 @@
 
 Este es un sencillo proyecto web de "Amigo Secreto", desarrollado para practicar habilidades básicas de desarrollo frontend con HTML, CSS y JavaScript. La aplicación permite a los usuarios agregar una lista de nombres y, con un solo clic, realizar un sorteo aleatorio para determinar quién es el amigo secreto.
 
-¡Puedes ver la aplicación en acción haciendo clic [aquí]([LINK AL DEPLOY DE TU PROYECTO])!
-
 ## ✨ Funcionalidades
 
 -   **Agregar Nombres**: Los usuarios pueden ingresar nombres en un campo de texto y añadirlos a una lista visible.
